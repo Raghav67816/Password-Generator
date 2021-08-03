@@ -24,3 +24,6 @@ Open "Dist" Folder
 Double Click Interface.exe to run.
 
 For any additional queries or for requesting a feature, please inform us here.
+  
+  ![image](https://user-images.githubusercontent.com/73534350/127953046-4ab8690b-7c70-4627-8379-aee54e7fc034.png)
+
