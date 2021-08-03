@@ -4,10 +4,19 @@ In this world where cyber-attacks are hitting your devices again and again. As w
 
 
 # How to Install:
+
 Using git - git clone <repo-url>
+  
+  
 Download Source Code
 
 # Run Exe
+  
+  
 Open Folder Location
+  
+  
 Open "Dist" Folder
+  
+  
 Double Click Interface.exe to run.
